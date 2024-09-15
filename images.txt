@@ -1,1 +1,1 @@
-iras/php5-fpm
+mysql:5.7.44-oraclelinux7
