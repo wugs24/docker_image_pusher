@@ -1,1 +1,7 @@
-rabbitmq
+goharbor/harbor-core
+goharbor/harbor-db
+goharbor/harbor-registry
+goharbor/nginx-photon
+goharbor/harbor-log
+goharbor/harbor-jobservice
+goharbor/harbor-portal
