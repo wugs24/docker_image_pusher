@@ -1,7 +1,7 @@
-goharbor/harbor-core
-goharbor/harbor-db
-goharbor/harbor-registry
-goharbor/nginx-photon
-goharbor/harbor-log
-goharbor/harbor-jobservice
-goharbor/harbor-portal
+goharbor/harbor-core:v2.12.0
+goharbor/harbor-db:v2.12.0
+goharbor/harbor-registry:v2.12.0
+goharbor/nginx-photon:v2.12.0
+goharbor/harbor-log:v2.12.0
+goharbor/harbor-jobservice:v2.12.0
+goharbor/harbor-portal:v2.12.0
