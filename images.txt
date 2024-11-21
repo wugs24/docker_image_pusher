@@ -1,7 +1,3 @@
-goharbor/harbor-core:v2.12.0
-goharbor/harbor-db:v2.12.0
-goharbor/harbor-registryctl:v2.12.0
-goharbor/nginx-photon:v2.12.0
-goharbor/harbor-log:v2.12.0
-goharbor/harbor-jobservice:v2.12.0
-goharbor/harbor-portal:v2.12.0
+elasticsearch:8.10.2
+kibana:8.10.2
+filebeat:8.10.2
